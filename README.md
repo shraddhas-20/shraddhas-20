@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/header.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Consolas&weight=600&size=18&duration=2600&pause=700&color=FFD36E&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=%3E+booting+shraddha_singh.exe...;%3E+loading+neural+networks+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+mission%3A+AI+for+healthcare%2C+fintech+%26+social+good;%3E+status%3A+ready+for+launch+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -13,7 +13,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
 
 ## 🛰️ Crew Profile
 
@@ -32,7 +32,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
 
 ## 🪐 Mission Log — Experience
 
@@ -45,7 +45,7 @@ Sep 2025             Python Development Intern @ SRDT Pvt. Ltd.    Lucknow
 Sep 2024–May 2025    Content Writer, GeeksforGeeks – SRMCEM Chapter Lucknow
 ```
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
 
 ## ⚙️ Payload Manifest — Tech Stack
 
@@ -92,7 +92,7 @@ Sep 2024–May 2025    Content Writer, GeeksforGeeks – SRMCEM Chapter Lucknow
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
 
 ## 🌌 Exploration Logs — Projects
 
@@ -104,7 +104,7 @@ Sep 2024–May 2025    Content Writer, GeeksforGeeks – SRMCEM Chapter Lucknow
 | 🛡️ **Tarini – Women Safety App** | Safety app with Random Forest–based decision support, SOS alerts & live maps, built for future IoT integration | `Flask` `Twilio API` `Google Maps API` | [→ Launch](https://tarini.onrender.com/) |
 | ✋ **AR-Visualizer** | Real-time AR drawing app using hand-tracking for gesture-based interaction & virtual object rendering | `MediaPipe` `OpenCV` `Python` | [→ Launch](https://ar-visualizer-nine.vercel.app/) |
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
 
 ## 📡 Telemetry — GitHub Stats
 
@@ -123,7 +123,7 @@ Sep 2024–May 2025    Content Writer, GeeksforGeeks – SRMCEM Chapter Lucknow
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
 
 ## 🚀 Training Ground — Education
 
@@ -131,7 +131,7 @@ Sep 2024–May 2025    Content Writer, GeeksforGeeks – SRMCEM Chapter Lucknow
 Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow
 *Oct 2023 – Jul 2027*
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
 
 ## 📻 Open Transmission — Contact
 
@@ -145,6 +145,6 @@ Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shraddhas-20&color=FFD36E&style=flat-square&label=TRANSMISSIONS+RECEIVED)
 
-<img src="assets/footer.svg" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/footer.svg" width="100%"/>
 
 </div>
