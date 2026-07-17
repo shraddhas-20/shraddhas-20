@@ -88,11 +88,11 @@ Final-Year B.Tech Student — AI & ML @ AKTU
 
 | Project | Description | Tech | Link |
 |---|---|---|---|
-| 🧠 **Stroke Risk Detector** | Classification-based stroke risk prediction app with SMOTE-based imbalance handling & feature engineering | `Random Forest` `Python` `Scikit-learn` | [🔗 Link](https://tinyurl.com/mvk4uhyy) |
-| 💳 **Credit Card Fraud Detector** | ML + DL fraud detection system comparing a Random Forest Classifier against a TensorFlow/Keras DNN | `Python` `Pandas` `TensorFlow` `Keras` | [🔗 Link](https://tinyurl.com/39ekk2y3) |
-| 🌫️ **City AQI Predictor & Classifier** | Predicts and classifies city-level Air Quality Index using ML models trained on environmental data, helping flag pollution risk levels | `Python` `Scikit-learn` `Pandas` `Classification` | [🔗 Link](https://github.com/shraddhas-20/CityAQI-Classification-Deep-Learning.git) |
+| 🚨 **Stroke Risk Detector** | Classification-based stroke risk prediction app with SMOTE-based imbalance handling & feature engineering | `Random Forest` `Python` `Scikit-learn` | [🔗 Link](https://tinyurl.com/mvk4uhyy) |
+| 🥷🏻 **Credit Card Fraud Detector** | ML + DL fraud detection system comparing a Random Forest Classifier against a TensorFlow/Keras DNN | `Python` `Pandas` `TensorFlow` `Keras` | [🔗 Link](https://tinyurl.com/39ekk2y3) |
+| 🌏 **City AQI Predictor & Classifier** | Predicts and classifies city-level Air Quality Index using ML models trained on environmental data, helping flag pollution risk levels | `Python` `Scikit-learn` `Pandas` `Classification` | [🔗 Link](https://github.com/shraddhas-20/CityAQI-Classification-Deep-Learning.git) |
 | 🛡️ **Tarini – Women Safety App** | Safety application with Random Forest–based decision support, SOS alerts & maps, built for future IoT integration | `Flask` `Twilio API` `Google Maps API` | [🔗 Live Demo](https://tarini.onrender.com/) |
-| ✋ **AR-Visualizer** | Real-time AR drawing app using hand-tracking for gesture-based interaction and virtual object rendering | `MediaPipe` `OpenCV` `Python` | [🔗 Live Demo](https://ar-visualizer-nine.vercel.app/) |
+| ⚡️ **AR-Visualizer** | Real-time AR drawing app using hand-tracking for gesture-based interaction and virtual object rendering | `MediaPipe` `OpenCV` `Python` | [🔗 Live Demo](https://ar-visualizer-nine.vercel.app/) |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
