@@ -25,22 +25,16 @@
 
 ## 🚀 About Me
 
-```yaml
-name: Shraddha Singh
-location: Lucknow, Uttar Pradesh, India 🇮🇳
-role: Final-Year B.Tech Student — AI & ML
-current_focus: Machine Learning, Computer Vision, Predictive Analytics, Full-Stack Dev
-current_title: President, Computer Society of India (CSI) - SRMCEM
-fun_fact: NCC Cadet 🎖️ | Singer 🎤 | Writer ✍️ | Debater 🗣️
-looking_to_collaborate_on: AI-driven apps for healthcare, fintech & social impact
-```
+**Shraddha Singh** — Lucknow, Uttar Pradesh, India 🇮🇳
+Final-Year B.Tech Student — AI & ML @ AKTU
 
 - 🔭 Currently building **AI-powered applications** across healthcare, fintech, and social-impact domains
 - 🧠 Hands-on with **ML, Deep Learning, Computer Vision, LLMs & RAG**
 - 💼 Ex Machine Learning & Python Development Intern @ **SRDT Pvt. Ltd.**
-- 🏆 Led hackathons & workshops for **300+ participants** as CSI President
+- 🏆 President, **Computer Society of India (CSI) - SRMCEM** — led hackathons & workshops for 300+ participants
 - ✍️ Published: *"Quantum Computing – The Door to Endless Opportunities"* — CSI Lucknow Chapter, Vol. 19
 - 💬 Ask me about **ML pipelines, CV, Flask apps, or AR/hand-tracking**
+- ⚡ Fun fact: NCC Cadet 🎖️ | Singer 🎤 | Writer ✍️ | Debater 🗣️
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -93,19 +87,6 @@ looking_to_collaborate_on: AI-driven apps for healthcare, fintech & social impac
 
 ## 💡 Featured Projects
 
-<div align="center">
-
-<a href="https://tinyurl.com/mvk4uhyy">
-<img width="410" alt="Stroke Risk Detector" src="https://github-readme-stats.vercel.app/api/pin/?username=shraddhas-20&repo=stroke-risk-detector&theme=radical&hide_border=true&title_color=FF6B9D&text_color=ffffff&icon_color=C06BFF&bg_color=0D1117" />
-<img width="410" alt="Credit Card Fraud Detector" src="https://github-readme-stats.vercel.app/api/pin/?username=shraddhas-20&repo=credit-card-fraud-detector&theme=radical&hide_border=true&title_color=FF6B9D&text_color=ffffff&icon_color=C06BFF&bg_color=0D1117" />
-
-<img width="410" alt="Tarini Women Safety App" src="https://github-readme-stats.vercel.app/api/pin/?username=shraddhas-20&repo=tarini&theme=radical&hide_border=true&title_color=FF6B9D&text_color=ffffff&icon_color=C06BFF&bg_color=0D1117" />
-<img width="410" alt="AR Visualizer" src="https://github-readme-stats.vercel.app/api/pin/?username=shraddhas-20&repo=ar-visualizer&theme=radical&hide_border=true&title_color=FF6B9D&text_color=ffffff&icon_color=C06BFF&bg_color=0D1117" />
-
-</div>
-
-> 💡 *Pinned cards above pull live from GitHub — rename the `repo=` value to match your actual repository names for each project so the cards populate correctly.*
-
 | Project | Description | Tech | Link |
 |---|---|---|---|
 | 🧠 **Stroke Risk Detector** | Classification-based stroke risk prediction app with SMOTE-based imbalance handling & feature engineering | `Random Forest` `Python` `Scikit-learn` | [🔗 Live Demo](https://tinyurl.com/mvk4uhyy) |
@@ -132,14 +113,6 @@ looking_to_collaborate_on: AI-driven apps for healthcare, fintech & social impac
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shraddhas-20&theme=react-dark&hide_border=true&bg_color=0D1117&color=C06BFF&line=FF6B9D&point=6B9DFF" width="95%"/>
 
 </div>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shraddhas-20&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🎓 Education
 
