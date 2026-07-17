@@ -30,11 +30,10 @@ Final-Year B.Tech Student — AI & ML @ AKTU
 
 - 🔭 Currently building **AI-powered applications** across healthcare, fintech, and social-impact domains
 - 🧠 Hands-on with **ML, Deep Learning, Computer Vision, LLMs & RAG**
-- 💼 Ex Machine Learning & Python Development Intern @ **SRDT Pvt. Ltd.**
 - 🏆 President, **Computer Society of India (CSI) - SRMCEM** — led hackathons & workshops for 300+ participants
 - ✍️ Published: *"Quantum Computing – The Door to Endless Opportunities"* — CSI Lucknow Chapter, Vol. 19
 - 💬 Ask me about **ML pipelines, CV, Flask apps, or AR/hand-tracking**
-- ⚡ Fun fact: NCC Cadet 🎖️ | Singer 🎤 | Writer ✍️ | Debater 🗣️
+- ⚡ Fun fact: NCC Cadet 🎖️ | Anchor 🎤 | Writer ✍️ | Debater 🗣️
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -89,9 +88,9 @@ Final-Year B.Tech Student — AI & ML @ AKTU
 
 | Project | Description | Tech | Link |
 |---|---|---|---|
-| 🧠 **Stroke Risk Detector** | Classification-based stroke risk prediction app with SMOTE-based imbalance handling & feature engineering | `Random Forest` `Python` `Scikit-learn` | [🔗 Live Demo](https://tinyurl.com/mvk4uhyy) |
-| 💳 **Credit Card Fraud Detector** | ML + DL fraud detection system comparing a Random Forest Classifier against a TensorFlow/Keras DNN | `Python` `Pandas` `TensorFlow` `Keras` | [🔗 Live Demo](https://tinyurl.com/39ekk2y3) |
-| 🌫️ **City AQI Predictor & Classifier** | Predicts and classifies city-level Air Quality Index using ML models trained on environmental data, helping flag pollution risk levels | `Python` `Scikit-learn` `Pandas` `Classification` | 🔗 *Add link* |
+| 🧠 **Stroke Risk Detector** | Classification-based stroke risk prediction app with SMOTE-based imbalance handling & feature engineering | `Random Forest` `Python` `Scikit-learn` | [🔗 Link](https://tinyurl.com/mvk4uhyy) |
+| 💳 **Credit Card Fraud Detector** | ML + DL fraud detection system comparing a Random Forest Classifier against a TensorFlow/Keras DNN | `Python` `Pandas` `TensorFlow` `Keras` | [🔗 Link](https://tinyurl.com/39ekk2y3) |
+| 🌫️ **City AQI Predictor & Classifier** | Predicts and classifies city-level Air Quality Index using ML models trained on environmental data, helping flag pollution risk levels | `Python` `Scikit-learn` `Pandas` `Classification` | [🔗 Link](https://github.com/shraddhas-20/CityAQI-Classification-Deep-Learning.git) |
 | 🛡️ **Tarini – Women Safety App** | Safety application with Random Forest–based decision support, SOS alerts & maps, built for future IoT integration | `Flask` `Twilio API` `Google Maps API` | [🔗 Live Demo](https://tarini.onrender.com/) |
 | ✋ **AR-Visualizer** | Real-time AR drawing app using hand-tracking for gesture-based interaction and virtual object rendering | `MediaPipe` `OpenCV` `Python` | [🔗 Live Demo](https://ar-visualizer-nine.vercel.app/) |
 
@@ -101,7 +100,7 @@ Final-Year B.Tech Student — AI & ML @ AKTU
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shraddhas-20&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=C06BFF&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shraddhas-20&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=C06BFF&text_color=ffffff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shraddhas-20&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff&langs_count=8"/>
 
 <br/>
