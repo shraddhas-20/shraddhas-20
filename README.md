@@ -128,6 +128,8 @@ Sep 2024–May 2025    Content Writer, GeeksforGeeks – SRMCEM Chapter Lucknow
 ## 🚀 Training Ground — Education
 
 **Bachelor of Technology — AI & ML**
+Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow
+*Oct 2023 – Jul 2027*
 
 <img src="assets/divider.svg" width="100%"/>
 
