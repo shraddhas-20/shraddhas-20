@@ -32,16 +32,13 @@
 
 <img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
 
-## 🪐 Mission Log — Experience
+## 🪐 Mission Log — Current
 
 ```
-STARDATE            MISSION                                        BASE
-─────────────────────────────────────────────────────────────────────────────
-July 2026            Data Science/ AIML Intern @ Techiguru.         Lucknow
-Jun 2026             Machine Learning Intern @ SRDT Pvt. Ltd.       Lucknow
-Jul 2025–Present     President, CSIXD'CODERS – SRMCEM               Lucknow
-Sep 2025             Python Development Intern @ SRDT Pvt. Ltd.     Lucknow
-Sep 2024–May 2025    Content Writer, GeeksforGeeks – SRMCEM Chapter Lucknow
+STARDATE            MISSION                                        
+─────────────────────────────────────────
+2026           Build LLMs from scratch       
+
 ```
 
 <img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
