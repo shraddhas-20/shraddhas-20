@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C06BFF,100:6B9DFF&height=260&section=header&text=Hi%20there!%20I'm%20Shraddha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20|%20Full-Stack%20Developer%20|%20Builder%20of%20Cool%20Things&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=C06BFF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Final-Year+B.Tech+Student+%40+AKTU;AI+%26+ML+%7C+Computer+Vision+%7C+Full-Stack+Dev;Turning+data+into+decisions+%F0%9F%A7%A0;President+%40+Computer+Society+of+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=C06BFF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Final-Year+B.Tech+Student;AI+%26+ML+%7C+Computer+Vision+%7C+Full-Stack+Dev" alt="Typing SVG" />
 
 <br/>
 
@@ -100,8 +100,10 @@ Final-Year B.Tech Student — AI & ML @ AKTU
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shraddhas-20&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=C06BFF&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shraddhas-20&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff&langs_count=8"/>
+
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=shraddhas-20&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=C06BFF&text_color=ffffff"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shraddhas-20&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff&langs_count=8"/>
+
 
 <br/>
 
