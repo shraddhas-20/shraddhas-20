@@ -4,6 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Consolas&weight=600&size=18&duration=2600&pause=700&color=FFD36E&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=%3E+booting+shraddha_singh.exe...;%3E+loading+neural+networks+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+mission%3A+AI+for+healthcare%2C+fintech+%26+social+good;%3E+status%3A+ready+for+launch+%F0%9F%9A%80" alt="Typing SVG" />
 
+
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/spaceship.svg" width="480"/>
 <br/>
 
 <a href="https://shraddhasingh.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-05060f?style=flat-square&logoColor=white&labelColor=05060f&color=FFD36E"/></a>
