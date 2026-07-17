@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shraddha Singh</h1>
+<h1 align="center">Hi🫧, I'm Shraddha Singh</h1>
 
 <h3 align="center">
-AI/ML Engineer | Building Intelligent Systems with Code
+  I am curious about everything.
 </h3>
 
 <p align="center">
@@ -13,25 +13,7 @@ AI/ML Engineer | Building Intelligent Systems with Code
 
 - 🎓 Computer Science student specializing in Artificial Intelligence & Machine Learning
 - 🤖 Interested in Machine Learning, Deep Learning, LLMs, and Generative AI
-- 🔭 Building AI-powered applications and exploring real-world use cases
 - 🌱 Currently learning Transformers, RAG systems, and AI evaluation
-- 💬 Love turning ideas into working projects
-
-## ⚙️ Tech Stack
-
-### Languages
-Python • JavaScript • HTML • CSS
-
-### AI / ML
-TensorFlow • Keras • Scikit-Learn • Pandas • NumPy • OpenCV • MediaPipe
-
-### Generative AI
-LangChain • Hugging Face • Transformers • RAG
-
-### Development
-React • Tailwind CSS • Flask • Git • GitHub
-
-
 
 ## 🚀 Featured Projects
 
@@ -59,13 +41,6 @@ Platform designed to help reduce food waste through technology.
 <img src="https://github-readme-stats.vercel.app/api?username=shraddhas-20&show_icons=true&theme=tokyonight"/>
 </p>
 
-## Connect with me
-
-🌐 Portfolio: shraddhasingh.netlify.app
-
-💼 LinkedIn: https://www.linkedin.com/in/shraddha-singh-422a0032b/
-
-📧 Email: shraddhaforcode@gmail.com
 
 ## ⚙️ Tech Stack
 
@@ -95,3 +70,11 @@ Platform designed to help reduce food waste through technology.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## Connect with me
+
+🌐 Portfolio: shraddhasingh.netlify.app
+
+💼 LinkedIn: https://www.linkedin.com/in/shraddha-singh-422a0032b/
+
+📧 Email: shraddhaforcode@gmail.com
