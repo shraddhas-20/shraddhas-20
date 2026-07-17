@@ -23,12 +23,11 @@
 |:--|:--|
 | **Callsign** | Shraddha Singh |
 | **Base** | Lucknow, Uttar Pradesh, India 🇮🇳 |
-| **Rank** | Final-Year B.Tech — AI & ML, AKTU |
-| **Current Mission** | Building AI-powered applications across healthcare, fintech & social impact |
+| **Rank** | Final-Year B.Tech — AI & ML |
+| **Current Mission** | Building AI-powered applications across healthcare, Agriculture & social impact |
 | **Specializations** | Machine Learning · Deep Learning · Computer Vision · LLMs & RAG |
-| **Ground Control Duty** | President, Computer Society of India (CSI) – SRMCEM |
 | **Field Publication** | *"Quantum Computing – The Door to Endless Opportunities"* — CSI Lucknow Chapter, Vol. 19 |
-| **Off-Duty** | NCC Cadet 🎖️ · Anchor 🎤 · Writer ✍️ · Debater 🗣️ |
+| **Off-Duty** | NCC Cadet 🎖️ · Anchor · Writer · Debater 🗣️ |
 
 </div>
 
@@ -39,9 +38,10 @@
 ```
 STARDATE            MISSION                                        BASE
 ─────────────────────────────────────────────────────────────────────────────
+July 2026            Data Science/ AIML Intern @ Techiguru.         Lucknow
 Jun 2026             Machine Learning Intern @ SRDT Pvt. Ltd.       Lucknow
-Jul 2025–Present     President, CSI – SRMCEM                       Lucknow
-Sep 2025             Python Development Intern @ SRDT Pvt. Ltd.    Lucknow
+Jul 2025–Present     President, CSIXD'CODERS – SRMCEM               Lucknow
+Sep 2025             Python Development Intern @ SRDT Pvt. Ltd.     Lucknow
 Sep 2024–May 2025    Content Writer, GeeksforGeeks – SRMCEM Chapter Lucknow
 ```
 
@@ -98,11 +98,11 @@ Sep 2024–May 2025    Content Writer, GeeksforGeeks – SRMCEM Chapter Lucknow
 
 | Mission | Objective | Systems Used | Coordinates |
 |:--|:--|:--|:--|
-| 🧠 **Stroke Risk Detector** | Classification-based stroke risk prediction with SMOTE-based imbalance handling & feature engineering | `Random Forest` `Python` `Scikit-learn` | [→ Launch](https://tinyurl.com/mvk4uhyy) |
-| 💳 **Credit Card Fraud Detector** | ML + DL fraud detection comparing a Random Forest Classifier against a TensorFlow/Keras DNN | `Python` `Pandas` `TensorFlow` `Keras` | [→ Launch](https://tinyurl.com/39ekk2y3) |
-| 🌫️ **City AQI Predictor & Classifier** | Predicts & classifies city-level Air Quality Index from environmental data to flag pollution risk levels | `Python` `Scikit-learn` `Pandas` `Classification` | [→ Launch](https://github.com/shraddhas-20/CityAQI-Classification-Deep-Learning.git) |
+| 🚨 **Stroke Risk Detector** | Classification-based stroke risk prediction with SMOTE-based imbalance handling & feature engineering | `Random Forest` `Python` `Scikit-learn` | [→ Link](https://tinyurl.com/mvk4uhyy) |
+| 🥷🏻 **Credit Card Fraud Detector** | ML + DL fraud detection comparing a Random Forest Classifier against a TensorFlow/Keras DNN | `Python` `Pandas` `TensorFlow` `Keras` | [→ Linkh](https://tinyurl.com/39ekk2y3) |
+| 🌏 **City AQI Predictor & Classifier** | Predicts & classifies city-level Air Quality Index from environmental data to flag pollution risk levels | `Python` `Scikit-learn` `Pandas` `Classification` | [→ Link](https://github.com/shraddhas-20/CityAQI-Classification-Deep-Learning.git) |
 | 🛡️ **Tarini – Women Safety App** | Safety app with Random Forest–based decision support, SOS alerts & live maps, built for future IoT integration | `Flask` `Twilio API` `Google Maps API` | [→ Launch](https://tarini.onrender.com/) |
-| ✋ **AR-Visualizer** | Real-time AR drawing app using hand-tracking for gesture-based interaction & virtual object rendering | `MediaPipe` `OpenCV` `Python` | [→ Launch](https://ar-visualizer-nine.vercel.app/) |
+| ⚡️ **AR-Visualizer** | Real-time AR drawing app using hand-tracking for gesture-based interaction & virtual object rendering | `MediaPipe` `OpenCV` `Python` | [→ Launch](https://ar-visualizer-nine.vercel.app/) |
 
 <img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
 
@@ -128,8 +128,6 @@ Sep 2024–May 2025    Content Writer, GeeksforGeeks – SRMCEM Chapter Lucknow
 ## 🚀 Training Ground — Education
 
 **Bachelor of Technology — AI & ML**
-Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow
-*Oct 2023 – Jul 2027*
 
 <img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
 
