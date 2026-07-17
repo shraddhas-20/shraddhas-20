@@ -6,7 +6,7 @@
 
 
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/ufo.svg" width="480"/>
+<img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/spaceship.svg" width="480"/>
 <br/>
 
 <a href="https://shraddhasingh.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-05060f?style=flat-square&logoColor=white&labelColor=05060f&color=FFD36E"/></a>
