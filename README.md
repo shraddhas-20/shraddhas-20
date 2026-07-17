@@ -98,7 +98,7 @@ Sep 2024–May 2025    Content Writer, GeeksforGeeks – SRMCEM Chapter Lucknow
 | Mission | Objective | Systems Used | Coordinates |
 |:--|:--|:--|:--|
 | 🚨 **Stroke Risk Detector** | Classification-based stroke risk prediction with SMOTE-based imbalance handling & feature engineering | `Random Forest` `Python` `Scikit-learn` | [→ Link](https://tinyurl.com/mvk4uhyy) |
-| 🥷🏻 **Credit Card Fraud Detector** | ML + DL fraud detection comparing a Random Forest Classifier against a TensorFlow/Keras DNN | `Python` `Pandas` `TensorFlow` `Keras` | [→ Linkh](https://tinyurl.com/39ekk2y3) |
+| 🥷🏻 **Credit Card Fraud Detector** | ML + DL fraud detection comparing a Random Forest Classifier against a TensorFlow/Keras DNN | `Python` `Pandas` `TensorFlow` `Keras` | [→ Link](https://tinyurl.com/39ekk2y3) |
 | 🌏 **City AQI Predictor & Classifier** | Predicts & classifies city-level Air Quality Index from environmental data to flag pollution risk levels | `Python` `Scikit-learn` `Pandas` `Classification` | [→ Link](https://github.com/shraddhas-20/CityAQI-Classification-Deep-Learning.git) |
 | 🛡️ **Tarini – Women Safety App** | Safety app with Random Forest–based decision support, SOS alerts & live maps, built for future IoT integration | `Flask` `Twilio API` `Google Maps API` | [→ Launch](https://tarini.onrender.com/) |
 | ⚡️ **AR-Visualizer** | Real-time AR drawing app using hand-tracking for gesture-based interaction & virtual object rendering | `MediaPipe` `OpenCV` `Python` | [→ Launch](https://ar-visualizer-nine.vercel.app/) |
