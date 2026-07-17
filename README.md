@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C06BFF,100:6B9DFF&height=260&section=header&text=Hi%20there!%20I'm%20Shraddha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20|%20Full-Stack%20Developer%20|%20Builder%20of%20Cool%20Things&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C06BFF,100:6B9DFF&height=260&section=header&text=Hi%20there!%20I%27m%20Shraddha%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Builder%20of%20Cool%20Things&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=C06BFF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Final-Year+B.Tech+Student;AI+%26+ML+%7C+Computer+Vision+%7C+Full-Stack+Dev" alt="Typing SVG" />
 
@@ -26,13 +27,13 @@
 ## 🚀 About Me
 
 **Shraddha Singh** — Lucknow, Uttar Pradesh, India 🇮🇳
-Final-Year B.Tech Student — AI & ML @ AKTU
+Final-Year B.Tech Student — AI & ML 
 
-- 🔭 Currently building **AI-powered applications** across healthcare, fintech, and social-impact domains
-- 🧠 Hands-on with **ML, Deep Learning, Computer Vision, LLMs & RAG**
-- 🏆 President, **Computer Society of India (CSI) - SRMCEM** — led hackathons & workshops for 300+ participants
-- ✍️ Published: *"Quantum Computing – The Door to Endless Opportunities"* — CSI Lucknow Chapter, Vol. 19
-- 💬 Ask me about **ML pipelines, CV, Flask apps, or AR/hand-tracking**
+- Currently building **AI-powered applications** across healthcare, fintech, and social-impact domains
+- Hands-on with **ML, Deep Learning, Computer Vision, LLMs & RAG**
+-  President, **Computer Society of India (CSI) - SRMCEM** — led hackathons & workshops for 300+ participants
+- Published: *"Quantum Computing – The Door to Endless Opportunities"* — CSI Lucknow Chapter, Vol. 19
+-  Ask me about **ML pipelines, CV, Flask apps, or AR/hand-tracking**
 - ⚡ Fun fact: NCC Cadet 🎖️ | Anchor 🎤 | Writer ✍️ | Debater 🗣️
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
