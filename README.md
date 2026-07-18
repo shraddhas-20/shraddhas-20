@@ -13,9 +13,6 @@
 
 ## 🛰️ Crew Profile
 
-<table>
-<tr>
-<td width="100%" valign="middle">
 | Field | Value |
 |:--|:--|
 | **Callsign** | Shraddha Singh |
@@ -26,10 +23,6 @@
 | **Ground Control Duty** | President, Computer Society of India (CSI) – SRMCEM |
 | **Field Publication** | *"Quantum Computing – The Door to Endless Opportunities"* — CSI Lucknow Chapter, Vol. 19 |
 | **Off-Duty** | NCC Cadet 🎖️ · Anchor 🎤 · Writer ✍️ · Debater 🗣️ |
- 
-</td>
-</tr>
-</table>
 
 <img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
 
