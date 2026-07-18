@@ -80,15 +80,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
 
-## 🌌 Exploration Logs — Projects
-
-| Mission | Objective | Systems Used | Coordinates |
-|:--|:--|:--|:--|
-| 🚨 **Stroke Risk Detector** | Classification-based stroke risk prediction with SMOTE-based imbalance handling & feature engineering | `Random Forest` `Python` `Scikit-learn` | [→ Link](https://tinyurl.com/mvk4uhyy) |
-| 🥷🏻 **Credit Card Fraud Detector** | ML + DL fraud detection comparing a Random Forest Classifier against a TensorFlow/Keras DNN | `Python` `Pandas` `TensorFlow` `Keras` | [→ Link](https://tinyurl.com/39ekk2y3) |
-| 🌏 **City AQI Predictor & Classifier** | Predicts & classifies city-level Air Quality Index from environmental data to flag pollution risk levels | `Python` `Scikit-learn` `Pandas` `Classification` | [→ Link](https://github.com/shraddhas-20/CityAQI-Classification-Deep-Learning.git) |
-| 🛡️ **Tarini – Women Safety App** | Safety app with Random Forest–based decision support, SOS alerts & live maps, built for future IoT integration | `Flask` `Twilio API` `Google Maps API` | [→ Launch](https://tarini.onrender.com/) |
-
 
 <img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
 
