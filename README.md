@@ -25,14 +25,11 @@
 
 <img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
 
-## 🪐 Mission Log — Current
 
-```
-STARDATE            MISSION                                        
-─────────────────────────────────────────
-2026           Build LLMs from scratch       
-
-```
+## 🎯 What I'm Up To Right Now
+ 
+- Wrapping up my final year and actively looking for AI/ML and Data Science roles
+- Going deeper into LLMs, RAG pipelines and AI evals — trying to actually understand what's happening under the hood instead of just calling APIs
 
 <img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
 
@@ -91,7 +88,7 @@ STARDATE            MISSION
 | 🥷🏻 **Credit Card Fraud Detector** | ML + DL fraud detection comparing a Random Forest Classifier against a TensorFlow/Keras DNN | `Python` `Pandas` `TensorFlow` `Keras` | [→ Link](https://tinyurl.com/39ekk2y3) |
 | 🌏 **City AQI Predictor & Classifier** | Predicts & classifies city-level Air Quality Index from environmental data to flag pollution risk levels | `Python` `Scikit-learn` `Pandas` `Classification` | [→ Link](https://github.com/shraddhas-20/CityAQI-Classification-Deep-Learning.git) |
 | 🛡️ **Tarini – Women Safety App** | Safety app with Random Forest–based decision support, SOS alerts & live maps, built for future IoT integration | `Flask` `Twilio API` `Google Maps API` | [→ Launch](https://tarini.onrender.com/) |
-| ⚡️ **AR-Visualizer** | Real-time AR drawing app using hand-tracking for gesture-based interaction & virtual object rendering | `MediaPipe` `OpenCV` `Python` | [→ Launch](https://ar-visualizer-nine.vercel.app/) |
+
 
 <img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
 
