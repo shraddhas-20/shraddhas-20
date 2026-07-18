@@ -13,7 +13,7 @@
 
 ## 🛰️ Crew Profile
 
-<div>
+<div align="center">
 | Field | Value |
 |:--|:--|
 | **Callsign** | Shraddha Singh |
@@ -26,6 +26,7 @@
 | **Off-Duty** | NCC Cadet 🎖️ · Anchor 🎤 · Writer ✍️ · Debater 🗣️ |
  
 </div>
+
 
 <img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
 
