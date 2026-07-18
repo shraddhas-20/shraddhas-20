@@ -13,19 +13,26 @@
 
 ## 🛰️ Crew Profile
 
-<div align="center">
-
+<table>
+<tr>
+<td width="72%" valign="middle">
 | Field | Value |
 |:--|:--|
 | **Callsign** | Shraddha Singh |
 | **Base** | Lucknow, Uttar Pradesh, India 🇮🇳 |
-| **Rank** | Final-Year B.Tech — AI & ML |
-| **Current Mission** | Building AI-powered applications across healthcare, Agriculture & social impact |
+| **Rank** | Final-Year B.Tech — AI & ML, AKTU |
+| **Current Mission** | Building AI-powered applications across healthcare, fintech & social impact |
 | **Specializations** | Machine Learning · Deep Learning · Computer Vision · LLMs & RAG |
+| **Ground Control Duty** | President, Computer Society of India (CSI) – SRMCEM |
 | **Field Publication** | *"Quantum Computing – The Door to Endless Opportunities"* — CSI Lucknow Chapter, Vol. 19 |
-| **Off-Duty** | NCC Cadet 🎖️ · Anchor · Writer · Debater 🗣️ |
-
-</div>
+| **Off-Duty** | NCC Cadet 🎖️ · Anchor 🎤 · Writer ✍️ · Debater 🗣️ |
+ 
+</td>
+<td width="28%" align="center" valign="middle">
+<img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/ufo.svg" width="200"/>
+</td>
+</tr>
+</table>
 
 <img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
 
