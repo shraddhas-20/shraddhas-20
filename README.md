@@ -13,9 +13,7 @@
 
 ## 🛰️ Crew Profile
 
-<table>
-<tr>
-<td width="72%" valign="middle">
+<div>
 | Field | Value |
 |:--|:--|
 | **Callsign** | Shraddha Singh |
@@ -27,12 +25,7 @@
 | **Field Publication** | *"Quantum Computing – The Door to Endless Opportunities"* — CSI Lucknow Chapter, Vol. 19 |
 | **Off-Duty** | NCC Cadet 🎖️ · Anchor 🎤 · Writer ✍️ · Debater 🗣️ |
  
-</td>
-<td width="28%" align="center" valign="middle">
-<img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/ufo.svg" width="200"/>
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
 
