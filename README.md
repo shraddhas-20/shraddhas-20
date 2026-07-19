@@ -18,9 +18,8 @@
 | **Callsign** | Shraddha Singh |
 | **Base** | Lucknow, Uttar Pradesh, India 🇮🇳 |
 | **Rank** | Final-Year B.Tech — AI & ML |
-| **Current Mission** | Building AI-powered applications across healthcare, fintech & social impact |
+| **Current Mission** | Building AI-powered applications across healthcare,agriculture, fintech & social impact |
 | **Specializations** | Machine Learning · Deep Learning · Computer Vision · LLMs & RAG |
-| **Field Publication** | *"Quantum Computing – The Door to Endless Opportunities"* — CSI Lucknow Chapter, Vol. 19 |
 | **Off-Duty** | NCC Cadet 🎖️ · Anchor · Writer · Debater 🗣️ |
 
 <img src="https://cdn.jsdelivr.net/gh/shraddhas-20/shraddhas-20@main/divider.svg" width="100%"/>
